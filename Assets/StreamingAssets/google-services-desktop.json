@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082989545518",
+    "project_id": "nloto-e95ee",
+    "storage_bucket": "nloto-e95ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082989545518:android:1c4ae97b240d55361937bf",
+        "android_client_info": {
+          "package_name": "com.nloto.mybilet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082989545518-bovt4qpi35k9p9e4oaojhn2tsc26vofn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBDts5V-gcAUubVe1t_pr8R5CPp4LGfPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082989545518-bovt4qpi35k9p9e4oaojhn2tsc26vofn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
